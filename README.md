@@ -4,7 +4,7 @@ Projeto básico com componentes voltados com material-ui
 
 ## 🚀 Tecnologias
 
-- ⚡ AngularJs
+- ⚡ Angular
 
 ## 🔥 Pré-requisitos
 
